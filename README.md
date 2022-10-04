@@ -51,15 +51,15 @@ Img 1: Number of Peole Per Income Group.
 
 ![image](https://user-images.githubusercontent.com/109603891/193823325-cfdd39c9-9468-46b6-9ae6-7b1fe74741ec.png)
 
-Number of People per Race.
+Img 2:Number of People per Race.
 
 ![image](https://user-images.githubusercontent.com/109603891/193824189-cbe815cb-9eae-46a4-b522-49d1112839aa.png)
 
-Distribution of Gender
+Img 3:Distribution of Gender
 
 ![image](https://user-images.githubusercontent.com/109603891/193825197-20798d85-33e1-404f-8e8c-adbf513b122b.png)
 
-Visualisation of one of the Logistic Regression model
+Img 4:Visualisation of one of the Logistic Regression model
 
 From the above visualisations:
 - It is evident most people are married or never married (Img 1).
