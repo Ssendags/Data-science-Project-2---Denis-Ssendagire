@@ -44,6 +44,7 @@ Models are built and evaluated: Logistic Regression and Decision Tree Classifica
 
 Results
 Explanatory Data Analysis:
+
 ![image](https://user-images.githubusercontent.com/109603891/193822965-35c3e2f2-93e8-4733-9109-79605c051b07.png)
 
 Img 1: Number of Peole Per Income Group.
