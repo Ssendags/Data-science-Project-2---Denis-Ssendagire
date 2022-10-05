@@ -53,7 +53,7 @@ Img 1: Number of Peole Per Income Group.
 
 Img 2:Number of People per Race.
 
-![image](https://user-images.githubusercontent.com/109603891/193824189-cbe815cb-9eae-46a4-b522-49d1112839aa.png)
+![image](https://user-images.githubusercontent.com/109603891/194021776-264e14f4-22e5-435a-b928-b4699bc7ce04.png)
 
 Img 3:Distribution of Gender
 
